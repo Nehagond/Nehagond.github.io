@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What do I do in my free time
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is (Neha Gond). I passionate about  
+-Writing about (Human Right) especially for (Rural Area)
+-I am working in the field of (Economics)
+-I am curious about sharing my thoughts, working experiences and my openion with others through social media.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### EDUCATION
+ Currently  persuing my graduation in (Economics) from (BANARAS HINDU UNIVERSITY VARANASI).
+ 
+### Quotes that inspire me
+ -"Keep your heels, head and standards high."
+ -"I love to travel, but hate to arrive."
+                                      -Albert Einstein
+                                                                
+ ### Hobbies 
+ Writing, Meditation & Travelling.
