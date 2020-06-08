@@ -124,7 +124,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: 'nehagond'
+#disqus: 'nehagond'
 
 # Facebook App ID
 # fb_app_id: ""
