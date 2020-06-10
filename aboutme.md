@@ -5,7 +5,7 @@ subtitle: What do I do in my free time
 ---
 
 My name is <strong>Neha Gond</strong>. I passionate about  
-- Writing about (Human Right) especially for <strong>Rural Area</strong>
+- Writing about <strong>Human Right</strong> especially for <strong>Rural Area</strong>
 - I am working in the field of <strong>Economics</strong>
 - I am curious about sharing my thoughts, working experiences and my openion with others through social media.
 
