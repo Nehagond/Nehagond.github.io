@@ -39,11 +39,11 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "kumarinehagond465@gmail.com"
-  facebook: Neha Gond
+  #facebook: Neha Gond
   twitter: NehaKum16435167
   rss: true
   instagram: kumarineha45200
-  linkedin: daattali
+  #linkedin: daattali
   reddit: nehagond
 
 #  xing: yourname
